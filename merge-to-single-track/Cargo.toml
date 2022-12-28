@@ -1,0 +1,9 @@
+[package]
+name = "merge-to-single-track"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+midi-toolkit-rs = { git = "https://github.com/arduano/midi-toolkit-rs" }
