@@ -10,3 +10,7 @@ More information can be found in the READMEs inside each script's folder.
 
 - `merge-to-single-track` (Merges all notes of a MIDI to a single track)
 - `multi-channel-tracks-remover` (Will split the notes from a MIDI will multi-channel tracks)
+
+## License
+
+All scripts are licensed under the GNU General Public License v2.0
