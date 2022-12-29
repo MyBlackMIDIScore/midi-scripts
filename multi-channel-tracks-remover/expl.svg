@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="100mm"
+   viewBox="0 0 200 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3238075"
+     inkscape:cx="44.946112"
+     inkscape:cy="248.90326"
+     inkscape:window-width="951"
+     inkscape:window-height="1007"
+     inkscape:window-x="963"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="43.057619"
+       y="148.81318"
+       width="141.25921"
+       height="28.705079"
+       id="rect4495" />
+    <rect
+       x="55.899365"
+       y="151.83476"
+       width="144.28079"
+       height="30.215873"
+       id="rect4489" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.93673;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.148862,-0.06259333 c 0,99.70793433 0,100.45761333 0,100.45761333"
+       id="path236" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff9b49;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1276"
+       width="35.141773"
+       height="34.424603"
+       x="6.8411212"
+       y="4.4560452"
+       ry="3.7424939" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#49b1ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1276-3"
+       width="35.141773"
+       height="34.424603"
+       x="6.6585259"
+       y="53.031792"
+       ry="3.7424939" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4487"
+       style="font-size:26.6667px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4489);display:inline;fill:#ffffff;fill-opacity:1;stroke:#49b1ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4493"
+       style="font-size:26.6667px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4495);display:inline;fill:#ffffff;fill-opacity:1;stroke:#49b1ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';text-align:center;text-anchor:middle;fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="24.229401"
+       y="46.227917"
+       id="text4501"><tspan
+         sodipodi:role="line"
+         id="tspan4499"
+         style="fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="24.229401"
+         y="46.227917">Track 1 - Ch 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';text-align:center;text-anchor:middle;fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="24.229403"
+       y="94.673988"
+       id="text4501-6"><tspan
+         sodipodi:role="line"
+         id="tspan4499-7"
+         style="fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="24.229403"
+         y="94.673988">Track 2 - Ch 2</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#1f800e;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-5-0"
+       width="18.093632"
+       height="17.786959"
+       x="76.049316"
+       y="16.589359"
+       ry="2.9797876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1f800e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="85.142654"
+       y="24.383579"
+       id="text6067-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f800e;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="85.142654"
+         y="24.383579"
+         id="tspan7515">Track 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="85.342529"
+       y="29.639061"
+       id="text6067-6-92"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9b49;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="85.342529"
+         y="29.639061"
+         id="tspan7515-0">Ch 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="115.72207"
+       y="30.038794"
+       id="text6067-6-92-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9b49;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="115.72207"
+         y="30.038794"
+         id="tspan7515-0-8">Ch 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="145.70189"
+       y="30.038792"
+       id="text6067-6-92-6-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9b49;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="145.70189"
+         y="30.038792"
+         id="tspan7515-0-8-2">Ch 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff9b49;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="175.6817"
+       y="29.838926"
+       id="text6067-6-92-6-9-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9b49;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="175.6817"
+         y="29.838926"
+         id="tspan7515-0-8-2-6">Ch 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="85.542389"
+       y="73.409584"
+       id="text6067-6-92-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#49b1ff;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="85.542389"
+         y="73.409584"
+         id="tspan7515-0-9">Ch 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="115.92193"
+       y="73.809319"
+       id="text6067-6-92-6-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#49b1ff;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="115.92193"
+         y="73.809319"
+         id="tspan7515-0-8-0">Ch 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="145.90176"
+       y="73.809319"
+       id="text6067-6-92-6-9-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#49b1ff;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="145.90176"
+         y="73.809319"
+         id="tspan7515-0-8-2-8">Ch 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#49b1ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="175.88158"
+       y="73.609451"
+       id="text6067-6-92-6-9-6-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#49b1ff;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="175.88158"
+         y="73.609451"
+         id="tspan7515-0-8-2-6-1">Ch 2</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c1be00;stroke-width:1.15636;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-2"
+       width="18.181126"
+       height="17.872969"
+       x="106.06752"
+       y="16.546354"
+       ry="2.9941967" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c1be00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="115.05815"
+       y="24.196907"
+       id="text6067-2-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c1be00;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="115.05815"
+         y="24.196907"
+         id="tspan7517">Track 2</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e20030;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-5-1"
+       width="18.093632"
+       height="17.786959"
+       x="136.17322"
+       y="16.589359"
+       ry="2.9797876" />
+    <g
+       id="g7532"
+       transform="translate(0.29752572,3.4976443)"
+       style="stroke:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e20030;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         x="144.76918"
+         y="20.74505"
+         id="text6067-2-8-5"
+         inkscape:transform-center-x="-25.183042"
+         inkscape:transform-center-y="-6.3956931"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e20030;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+           x="144.76918"
+           y="20.74505"
+           id="tspan7519">Track 3</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c1be00;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012"
+       width="11.79206"
+       height="11.592194"
+       x="26.427921"
+       y="8.2534885"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ad00e6;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3"
+       width="11.79206"
+       height="11.592194"
+       x="26.527855"
+       y="23.643126"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e20030;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-5"
+       width="11.79206"
+       height="11.592194"
+       x="10.338766"
+       y="23.643126"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#1f800e;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-5"
+       width="11.79206"
+       height="11.592194"
+       x="10.338765"
+       y="8.4533539"
+       ry="1.942" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1f800e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.234787"
+       y="16.048239"
+       id="text6067"><tspan
+         sodipodi:role="line"
+         id="tspan6065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f800e;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="16.234787"
+         y="16.048239">Ch1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c1be00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="32.423885"
+       y="16.10722"
+       id="text6067-2"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c1be00;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="32.423885"
+         y="16.10722">Ch2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e20030;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.234785"
+       y="31.496857"
+       id="text6067-2-8"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e20030;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="16.234785"
+         y="31.496857">Ch3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ad00e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="32.423885"
+       y="31.496859"
+       id="text6067-2-8-7"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad00e6;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="32.423885"
+         y="31.496859">Ch4</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ad00e6;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-4"
+       width="18.093632"
+       height="17.786959"
+       x="166.18863"
+       y="16.589359"
+       ry="2.9797876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ad00e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="175.28198"
+       y="24.042831"
+       id="text6067-2-8-7-7"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad00e6;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="175.28198"
+         y="24.042831"
+         id="tspan7521">Track 4</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#1f800e;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-5-0-6"
+       width="18.093632"
+       height="17.786959"
+       x="76.195778"
+       y="60.259953"
+       ry="2.9797876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1f800e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="85.488983"
+       y="67.654442"
+       id="text6067-6-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f800e;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="85.488983"
+         y="67.654442"
+         id="tspan7515-7">Track 5</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c1be00;stroke-width:1.15636;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-2-5"
+       width="18.181126"
+       height="17.872969"
+       x="106.21397"
+       y="60.216949"
+       ry="2.9941967" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c1be00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="115.20461"
+       y="67.8675"
+       id="text6067-2-0-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c1be00;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="115.20461"
+         y="67.8675"
+         id="tspan7517-4">Track 6</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e20030;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-5-1-4"
+       width="18.093632"
+       height="17.786959"
+       x="136.31967"
+       y="60.259953"
+       ry="2.9797876" />
+    <g
+       id="g7532-4"
+       transform="translate(0.44398542,47.168236)"
+       style="stroke:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e20030;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         x="144.76918"
+         y="20.74505"
+         id="text6067-2-8-5-3"
+         inkscape:transform-center-x="-25.183042"
+         inkscape:transform-center-y="-6.3956931"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e20030;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+           x="144.76918"
+           y="20.74505"
+           id="tspan7519-7">Track 7</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ad00e6;stroke-width:1.15079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-4-6"
+       width="18.093632"
+       height="17.786959"
+       x="166.33508"
+       y="60.259953"
+       ry="2.9797876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ad00e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="175.42844"
+       y="67.713425"
+       id="text6067-2-8-7-7-8"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad00e6;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="175.42844"
+         y="67.713425"
+         id="tspan7521-4">Track 8</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c1be00;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-1"
+       width="11.79206"
+       height="11.592194"
+       x="26.527855"
+       y="56.520985"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ad00e6;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-2"
+       width="11.79206"
+       height="11.592194"
+       x="26.627789"
+       y="71.910622"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e20030;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-3-5-9"
+       width="11.79206"
+       height="11.592194"
+       x="10.438701"
+       y="71.910622"
+       ry="1.942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#1f800e;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012-5-3"
+       width="11.79206"
+       height="11.592194"
+       x="10.438697"
+       y="56.720852"
+       ry="1.942" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1f800e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.334721"
+       y="64.315735"
+       id="text6067-1"><tspan
+         sodipodi:role="line"
+         id="tspan6065-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f800e;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="16.334721"
+         y="64.315735">Ch1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#c1be00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="32.523819"
+       y="64.374718"
+       id="text6067-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c1be00;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="32.523819"
+         y="64.374718">Ch2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e20030;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="16.334717"
+       y="79.764351"
+       id="text6067-2-8-8"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e20030;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="16.334717"
+         y="79.764351">Ch3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ad00e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       x="32.523819"
+       y="79.764359"
+       id="text6067-2-8-7-5"
+       inkscape:transform-center-x="-25.183042"
+       inkscape:transform-center-y="-6.3956931"><tspan
+         sodipodi:role="line"
+         id="tspan6065-2-9-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad00e6;fill-opacity:1;stroke-width:0;stroke-dasharray:none;stroke:none"
+         x="32.523819"
+         y="79.764359">Ch4</tspan></text>
+    <g
+       id="g7086"
+       transform="translate(0,13.849966)">
+      <path
+         style="fill:#ad00e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="M 49.366757,12.19179 H 63.15747"
+         id="path6864" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.76686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.042917,9.4270029 3.830719,2.6491791 -3.405082,2.980328"
+         id="path7082" />
+    </g>
+    <g
+       id="g7086-3"
+       transform="translate(-0.03142504,58.492)">
+      <path
+         style="fill:#ad00e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="M 49.366757,12.19179 H 63.15747"
+         id="path6864-6" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.76686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.042917,9.4270029 3.830719,2.6491791 -3.405082,2.980328"
+         id="path7082-1" />
+    </g>
+  </g>
+</svg>
